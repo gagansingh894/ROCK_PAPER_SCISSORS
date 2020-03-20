@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/RockPaperSissors.csproj": {}
+  },
+  "projects": {
+    "/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/RockPaperSissors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/RockPaperSissors.csproj",
+        "projectName": "RockPaperSissors",
+        "projectPath": "/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/RockPaperSissors.csproj",
+        "packagesPath": "/home/gagandeep/.nuget/packages/",
+        "outputPath": "/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gagandeep/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

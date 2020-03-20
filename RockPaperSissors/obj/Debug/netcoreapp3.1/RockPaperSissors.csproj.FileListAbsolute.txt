@@ -1,0 +1,11 @@
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/bin/Debug/netcoreapp3.1/RockPaperSissors
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/bin/Debug/netcoreapp3.1/RockPaperSissors.deps.json
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/bin/Debug/netcoreapp3.1/RockPaperSissors.runtimeconfig.json
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/bin/Debug/netcoreapp3.1/RockPaperSissors.runtimeconfig.dev.json
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/bin/Debug/netcoreapp3.1/RockPaperSissors.dll
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/bin/Debug/netcoreapp3.1/RockPaperSissors.pdb
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/obj/Debug/netcoreapp3.1/RockPaperSissors.csprojAssemblyReference.cache
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/obj/Debug/netcoreapp3.1/RockPaperSissors.AssemblyInfoInputs.cache
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/obj/Debug/netcoreapp3.1/RockPaperSissors.AssemblyInfo.cs
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/obj/Debug/netcoreapp3.1/RockPaperSissors.dll
+/media/gagandeep/2E92405C92402AA3/Work/Codes/CSharp/RockPaperSissors/obj/Debug/netcoreapp3.1/RockPaperSissors.pdb
